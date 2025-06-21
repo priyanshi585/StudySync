@@ -4,7 +4,7 @@ Welcome to <h2><b>StudySync</b></h2>, a beautiful, responsive, and modern UI des
 
 <h3>🛠️ Crafted to showcase my UI/UX skills using basic yet powerful web technologies.</h3>
 
-<h3>📸 Preview of StudySync: https://priyanshi444.github.io/Study-Sync/<h3>
+<h3>📸 Preview of StudySync:https://priyanshi585.github.io/StudySync/<h3>
 
 <h3>🎯 Features at a Glance</h3>
 
@@ -27,5 +27,5 @@ Welcome to <h2><b>StudySync</b></h2>, a beautiful, responsive, and modern UI des
 <h3>🌐 Live Demo</h3>
 
 Click below to view the live version of StudySync 👇  
-https://priyanshi444.github.io/Study-Sync/
+https://priyanshi585.github.io/StudySync/
 
