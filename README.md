@@ -8,7 +8,7 @@ Welcome to <h2><b>StudySync</b></h2>, a beautiful, responsive, and modern UI des
 
 <h3>🎯 Features at a Glance</h3>
 
-- 🎨 Sleek, modern, and clean user interface
+- 🎨 Sleek, modern, and clean user interface  
 - 🖼️ Stunning hero section with image and bold typography
 - 📱 100% Responsive Design – looks great on all devices
 - 🔘 Stylish buttons with hover effects
