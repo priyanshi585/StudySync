@@ -28,4 +28,3 @@ Welcome to <h2><b>StudySync</b></h2>, a beautiful, responsive, and modern UI des
 
 Click below to view the live version of StudySync 👇  
 https://priyanshi585.github.io/StudySync/
-
