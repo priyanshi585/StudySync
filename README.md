@@ -6,7 +6,7 @@ Welcome to <h2><b>StudySync</b></h2>, a beautiful, responsive, and modern UI des
 
 <h3>📸 Preview of StudySync:https://priyanshi585.github.io/StudySync/<h3>
 
-<h3>🎯 Features at a Glance</h3>
+<h3>🎯 Features at a Glance</h3>   
 
 - 🎨 Sleek, modern, and clean user interface  
 - 🖼️ Stunning hero section with image and bold typography
